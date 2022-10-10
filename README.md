@@ -55,4 +55,10 @@ D4.marks of students multilevel inheritence
 D4.sum and product using single inheritence
 D4.sum of integers in array
 D4.updating accounts
-
+D5.RBI banking
+D5.bank functonality
+D5.info of different vehicles
+D5.mamails and marine animals
+D5.print no.of fruits
+D5.printing the shapes
+D5.total no.of marks for each student.
